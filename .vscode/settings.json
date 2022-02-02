@@ -1,0 +1,12 @@
+{
+    "codesnap.transparentBackground": true,
+    "codesnap.backgroundColor": "#FFFFFF",
+    "spellright.language": [
+        "en"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ]
+}
